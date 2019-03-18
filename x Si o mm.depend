@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1548490135 source:f:\proiecte code bolcks\x si o mm\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<math.h>
+
+1548487567 source:f:\proiecte code bolcks\x si o mm\resources.rc
+
